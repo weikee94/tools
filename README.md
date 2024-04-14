@@ -7,3 +7,4 @@ Tools I am using
 | conventional-changelog | https://github.com/conventional-changelog/standard-version |
 | hsiangfeng | https://github.com/hsiangfeng/APIList |
 | jetbrainsmono | https://www.jetbrains.com/lp/mono/ |
+| immersive translate | https://chromewebstore.google.com/detail/immersive-translate-trans/bpoadfkcbjbfhfodiogcnhhhpibjhbnh |
