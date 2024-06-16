@@ -8,3 +8,4 @@ Tools I am using
 | hsiangfeng | https://github.com/hsiangfeng/APIList |
 | jetbrainsmono | https://www.jetbrains.com/lp/mono/ |
 | immersive translate | https://chromewebstore.google.com/detail/immersive-translate-trans/bpoadfkcbjbfhfodiogcnhhhpibjhbnh |
+| easy dict | https://github.com/tisfeng/Easydict |
