@@ -9,3 +9,4 @@ Tools I am using
 | jetbrainsmono | https://www.jetbrains.com/lp/mono/ |
 | immersive translate | https://chromewebstore.google.com/detail/immersive-translate-trans/bpoadfkcbjbfhfodiogcnhhhpibjhbnh |
 | easy dict | https://github.com/tisfeng/Easydict |
+| chatgpt summarize and chat | https://chromewebstore.google.com/detail/cbgecfllfhmmnknmamkejadjmnmpfjmp |
