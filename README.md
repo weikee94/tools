@@ -10,3 +10,4 @@ Tools I am using
 | immersive translate | https://chromewebstore.google.com/detail/immersive-translate-trans/bpoadfkcbjbfhfodiogcnhhhpibjhbnh |
 | easy dict | https://github.com/tisfeng/Easydict |
 | chatgpt summarize and chat | https://chromewebstore.google.com/detail/cbgecfllfhmmnknmamkejadjmnmpfjmp |
+| proxy switchy omega | https://chromewebstore.google.com/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=en | 
